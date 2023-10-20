@@ -1,1 +1,13 @@
 # A04
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Web Page</h1>
+    <p>Username: sanaabdul04</p>
+    <p>Course Name: Introduction to Website Development</p>
+    <p>Section: 005</p>
+</body>
+</html>
